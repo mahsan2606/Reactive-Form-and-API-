@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Aliya",
+      "lastName": "Shaikh",
+      "email": "aliyashaikh@gmail.com",
+      "mobile": "9598524163",
+      "salary": "60000"
+    },
+    {
+      "id": 2,
+      "firstName": "Vijay",
+      "lastName": "Kumar",
+      "email": "vijaykumar@gmail.com",
+      "mobile": "9597451263",
+      "salary": "60000"
+    },
+    {
+      "id": 3,
+      "firstName": "Dheeraj",
+      "lastName": "Tiwari",
+      "email": "dheerajtiwari@gmail.com",
+      "mobile": "7752857992",
+      "salary": "100000"
+    },
+    {
+      "id": 4,
+      "firstName": "Sumedh",
+      "lastName": "Nikalje",
+      "email": "sumedhnikalje@gmail.com",
+      "mobile": "9768111420",
+      "salary": "60000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
